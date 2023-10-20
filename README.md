@@ -1,5 +1,6 @@
 # Medical-Record-For-C-C-Secondary-School
 ### AVERAGE VALUES FOR MALE AND FEMALE (BMI,Temperature,Heart Rate,Blood Pressure,Cholesterol and Age)
+
 ![](averagepivot.png)
 
 ![](averagevalue5.png)
